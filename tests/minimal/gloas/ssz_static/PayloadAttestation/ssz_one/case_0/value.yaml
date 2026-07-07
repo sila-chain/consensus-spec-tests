@@ -1,0 +1,7 @@
+aggregation_bits: '0x02'
+data:
+  beacon_block_root: '0x47682cb7eb8011c94653748ce54b34c7b8f61f31fd1e359f8cc43a691afc0d17'
+  slot: 10970146994666371976
+  payload_present: false
+  blob_data_available: false
+signature: '0x06cb8ef4ae3f8797810e0790faafed45348b7819861c0b7748f962487151e1827193959d484adf9da71cb85b1fed3796b763b4b08b2d60a04f783941617ecee86a4bcbeda9a33c3c49e160fc49b8af66f68a9cf7d7eae0f3f41f0607c784e26b'

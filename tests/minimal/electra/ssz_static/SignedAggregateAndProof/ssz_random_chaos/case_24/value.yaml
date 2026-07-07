@@ -1,0 +1,18 @@
+message:
+  aggregator_index: 1888014622139192372
+  aggregate:
+    aggregation_bits: '0xe901'
+    data:
+      slot: 13685087967451864156
+      index: 0
+      beacon_block_root: '0x7ee164460c6d1836c95f347bf6bcf99a36f41842430f79145209d3dd651b990b'
+      source:
+        epoch: 13593858620587638834
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      target:
+        epoch: 0
+        root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    committee_bits: '0x0d'
+  selection_proof: '0xf8cfaa2dd0b466c8f5c9b9c344527cf8d38a513ae615386661cbee725aef585a381fb26db0af067b4c3fa5b4f01fd1397ba03b82b5063e400bd857f8db44635813d9cbb6e6a9596fdff335edd7953c5d26ce7d3d810debdf9f5bbb72843282e9'
+signature: '0xd5900e63daf845a557bae1dc8f0befe93a521d0d451c2abf25da49cfb227da096a45e75802cf6041ba051b26df88648d9876fe1a2951bcf8eb820f0a61b30ebb3af54be34d5518ff4d1214d81a89cece523ba630b6498d924caaec1f7f224af4'

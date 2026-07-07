@@ -1,0 +1,30 @@
+- {tick: 26}
+- checks:
+    time: 26
+    head:
+      slot: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    justified_checkpoint:
+      epoch: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: 
+    block_0x9270093c0f2547cf8f12c9c9cad8baee4b7312fa7353a92cb1a1d7c25f86637a, 
+    valid: true}
+- checks:
+    time: 26
+    head:
+      slot: 4
+      root: '0x153cdd0ab4614590cefb9fa06cf83580516e6a6be4d2c8b6d77007b8dcf3d521'
+    justified_checkpoint:
+      epoch: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- checks:
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'

@@ -1,0 +1,9 @@
+parent_block_hash: '0xa0fe87aa076619d0a2efa959f616f65f1f3ab32557bd304953a913a72f77d70a'
+parent_block_root: '0x7dd98c97707369a1256462d6ab257a3d9473062b034475104d27a2b22bb0c26a'
+block_hash: '0x6d0b021c2e0dc46da0c3da4dd6f5c5f7726e830cbdd3d33316f9a485a61a1cc8'
+fee_recipient: '0x3a7f8aed1fc5a6bda30e0fef6747f51eaa4a2b90'
+gas_limit: 7655456318088719731
+builder_index: 18446744073709551615
+slot: 0
+value: 0
+blob_kzg_commitments_root: '0x63626cce33c0f3b85469dabc594d87bbd3aafc5248baed824bb7db4fb53fba24'

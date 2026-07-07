@@ -1,0 +1,12 @@
+deposits: []
+withdrawals:
+- source_address: '0xcc0374be70d74d3e0fc0499a477fadaf94be98cf'
+  validator_pubkey: '0x263aa35452aed2bec7841773f21b4118e2164fdb667f12d94156bc6a5233ff7763309299ffdb9395fa1831f715e78808'
+  amount: 7890110897269587622
+- source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+  validator_pubkey: '0xdb78d9d77909671e62a0b97983e729574456d30816ac20d7d1d8ee8cddd72ec5c8f7d5ab1ae8d3f238400fe5b6c49a32'
+  amount: 16140326392376009869
+consolidations:
+- source_address: '0x4afea662f9afb1f1bfa1547cf73620993f1c0ed2'
+  source_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  target_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

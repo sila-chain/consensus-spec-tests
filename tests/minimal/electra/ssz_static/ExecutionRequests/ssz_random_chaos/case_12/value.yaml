@@ -1,0 +1,11 @@
+deposits:
+- pubkey: '0xe8ce9fedfc49b421871037ef8121436de062c62b805ddb94b5ffd3255ff2f57f748996c7419440593463dbcac1144ef8'
+  withdrawal_credentials: '0xfd5ee97553cbc7edf8705d726433dfc1c2bc109d584394187ac429c41b5caba7'
+  amount: 15615510512599109549
+  signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  index: 14268349771589718907
+withdrawals:
+- source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+  validator_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+  amount: 9685101796485417820
+consolidations: []

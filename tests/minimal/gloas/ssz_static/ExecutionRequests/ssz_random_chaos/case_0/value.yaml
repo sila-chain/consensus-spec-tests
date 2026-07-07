@@ -1,0 +1,11 @@
+deposits:
+- pubkey: '0x77c5cdbc5efd5b678ae8689db1740df6d2d6650db5effd88aca2ad12537c5657d862f6f3b7ff35a9075b81a4f7177114'
+  withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  amount: 0
+  signature: '0x2da2900c0d226358f2e36144a2c6664c44be5f46fe889fb1eaff4850f0313138c552bea1fa026cbbe7ae6c25af8a7e5ce25e3413bb7cb8f18d4f1768e918e3ee2cc263b620f9c2cf2b30ab6859c3906764d2c20a5f980df214bdf0e06ad68a6a'
+  index: 0
+withdrawals: []
+consolidations:
+- source_address: '0xdd226fa165ae4d76659f1be6d13cde727b9b7941'
+  source_pubkey: '0x0451ef0e64c996ee76df826718a9985100a4e2eb60aa109cd405bcb275690214fbfb72e27afa5aea551ef60d80bd466d'
+  target_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

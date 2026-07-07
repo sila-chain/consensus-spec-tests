@@ -1,0 +1,6 @@
+deposits: []
+withdrawals: []
+consolidations:
+- source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+  source_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+  target_pubkey: '0xfcdb1e6e88274964ed96b5c27996ecfd9a71f0daee64a7abfc3fa41e49fac41eea3cfe80c80191af3e33131ff2540f0e'

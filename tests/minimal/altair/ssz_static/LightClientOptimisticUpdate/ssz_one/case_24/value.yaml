@@ -1,0 +1,11 @@
+attested_header:
+  beacon:
+    slot: 5101602337997093944
+    proposer_index: 7828446404009606929
+    parent_root: '0xc71b8cd6467c3337e9de94fad1ff85a7799ccabfb3c7b944c5ab408a56a44090'
+    state_root: '0xa5a3a0a999f34c91e5b6ad6092200f6894c45318d637b369daf4d9209ec40689'
+    body_root: '0xe0faa5cc29ceabdb418080d5002b5d20d7d2f8d85df12d4eb445033f2eaa71cf'
+sync_aggregate:
+  sync_committee_bits: '0x0a3bc802'
+  sync_committee_signature: '0xa7a80ffb8b553164686bdeb018eeff7c1dc207dd8c67fc45ae4eff18f0a67af597bb59d73d46682a6318bba0a11cf14cb3a5de0f660bca95f545c1025244a6b9eb7aa538d37303bb246cd6d80089e49737be472b7ab3d49f65e3cdf3a7f71037'
+signature_slot: 10893379440930830726

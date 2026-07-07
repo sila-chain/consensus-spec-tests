@@ -1,0 +1,11 @@
+message:
+  parent_block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  parent_block_root: '0x78b3d3eace24ab9853f789a40b1064a7a357f58af4f54809b1043af089924c95'
+  block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  fee_recipient: '0x0000000000000000000000000000000000000000'
+  gas_limit: 17071678012816821026
+  builder_index: 14438736384521923308
+  slot: 18446744073709551615
+  value: 1512337145485635262
+  blob_kzg_commitments_root: '0xc5f402958f735502ec3309f98b1108631d3dea3fd6b636e51d6ca94130d1039e'
+signature: '0x733410f3ee2cad6a0187e57650440a6baa4c1bc69a65966f75d0b52784dc767308cdd4c48a89c128f0b1b2baa6e481950cf1515ce6863a7d96a94dd06c6e7547e1cb49083a5484eb10b303ce7f62fd3afe824ce05e42d9ed4e32b2fdc10c4309'

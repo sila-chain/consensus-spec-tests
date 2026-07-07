@@ -1,0 +1,3 @@
+*.tar.gz
+tests/diagnostics_obj.json
+tests/diagnostics_obj.json.lock

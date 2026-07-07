@@ -1,0 +1,6 @@
+weight: 0
+withdrawal:
+  fee_recipient: '0xe680a7d49f605e007dfe90b0d6df6f8ae7ce024b'
+  amount: 13465818089667096466
+  builder_index: 13129922278037322539
+  withdrawable_epoch: 12938638017748766753

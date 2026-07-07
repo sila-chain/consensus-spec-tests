@@ -1,0 +1,33 @@
+deposits: []
+withdrawals:
+- source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+  validator_pubkey: '0xebdcf065acd5366b339a27013d2478363a2ba79ae57219bec6cf0cd367c86aa979ebe82f56f7f50d1900b1b9f7b8275e'
+  amount: 15150154101721633770
+- source_address: '0xac27bba19f358f792d5a0014e674d31d32dab53b'
+  validator_pubkey: '0x7d4f8aef56d514dc7b99bb89417659f2d7c771b534e42db98c730d844f759b63a841f5dbfb1fe42e328a8fb66a306784'
+  amount: 0
+- source_address: '0x3b24597da6f53342f065ed785d33a6edc7c5c154'
+  validator_pubkey: '0xde437dd0b4afd5f3ad0a9f08753530f4cae5b388cef4a9e7ff7ae535323dac4a08ce3eda0459e2fac34baebc331963c0'
+  amount: 569143057361598277
+- source_address: '0x4de91bb4e501c646d20dc55a6a28cb3b022dd4d2'
+  validator_pubkey: '0x8ec674b62e8949259c874d18022809649fce195e20bf8659301b52328623aa95c9565af9d3e9eda727a9caa658dc79c4'
+  amount: 17211229097027026709
+- source_address: '0x4f6ccf48762e58925057c1a1b618aa0a378cb368'
+  validator_pubkey: '0xc81eae001839d59a237af857f3b5a88b5cc964c79059e2aeb0055b3c11334c0d74f351444e65860b4350ec6fbe1c5a7d'
+  amount: 15113351252398057755
+- source_address: '0x0a64d4daae9fbcaec99a93c97c6a7a721d4204f0'
+  validator_pubkey: '0xd4db09468792ae7cd3458f06bfcf6bc71c3ef8d0cd76f5d43f103db897e8da7617d72d145f8c54e13ced807e204d75e9'
+  amount: 18446744073709551615
+- source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+  validator_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  amount: 14783389520445919322
+- source_address: '0xf0db80cc24ef352086299ff691e6d0e725e7eccf'
+  validator_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+  amount: 14109433782495856510
+- source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+  validator_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  amount: 18446744073709551615
+- source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+  validator_pubkey: '0x4f02a06f77e1da43458574ccc15af1004d90687a4578e754951c387e9ceb0cfc2592081847416bfa943cea165f0745d6'
+  amount: 10822159033386532900
+consolidations: []

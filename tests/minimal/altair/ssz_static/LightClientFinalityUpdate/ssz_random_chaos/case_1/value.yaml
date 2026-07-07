@@ -1,0 +1,25 @@
+attested_header:
+  beacon:
+    slot: 0
+    proposer_index: 14886433485791894637
+    parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    body_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+finalized_header:
+  beacon:
+    slot: 0
+    proposer_index: 0
+    parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    state_root: '0xcd7edfa98f1ef4ee4fa3c7c48343f7a39738cd0bd02601d3063c75990ef57de6'
+    body_root: '0x5e04d3b5171854c536437adc82afb19e9122f6dcae24cda05831087149647cc8'
+finality_branch:
+- '0x0000000000000000000000000000000000000000000000000000000000000000'
+- '0x79de32e4973529b3a81d266d9d994044964bac005361af40c83451e7d54f2bb9'
+- '0xacdedbaa80dd4f4cbf36fb92d468e5e7d348e3dd4dcad2aa419f8e598866ec65'
+- '0x64d6748f13114f9a284673a4a711080be306fad12f4cc3d2c4f0e1165f24d4ff'
+- '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+- '0x114be038086d18837010458b22ce98dfc346a3d508c1b33acec50acec1215762'
+sync_aggregate:
+  sync_committee_bits: '0xe54efe0f'
+  sync_committee_signature: '0x947ee119cff727fc3d7e37dda6115d15a472a0ac1f845efd76b769cdb8a4b9141329102be2dd17ffa2feb33c5dbee794ea3b035accd8d5d326e32b8ba9c3c9d8342c9d1ee9ffea12efc35ad1bf8d6292bae368626c6e849c5fdbca97fc84da95'
+signature_slot: 7629197452633275231

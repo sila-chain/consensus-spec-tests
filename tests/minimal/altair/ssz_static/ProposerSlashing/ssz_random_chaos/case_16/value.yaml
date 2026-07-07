@@ -1,0 +1,16 @@
+signed_header_1:
+  message:
+    slot: 521014519842722562
+    proposer_index: 0
+    parent_root: '0xe5b8d3ec01e31a1dec57a12445063084c930b6410bc7f89b5bd1a3f4cb4b5eaf'
+    state_root: '0x0bb152922e34f29d30f87aed67cd16a6f9dac1397e4ae5d48ea5267e10455276'
+    body_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  signature: '0xd88faef372b36bd945c69de90628839d524eaaa1f54048653ea4b1cc03b608bbe0197883eb4468e59132f933414f993b2f87260e8b829c30648aafd6474ef7072f49ce4152023eff93bd5c617941d7c84d90a844c92a617b71157a7c27d61e37'
+signed_header_2:
+  message:
+    slot: 8184709986616159259
+    proposer_index: 6738598208869431477
+    parent_root: '0xe00c3719c60062b711f1e60727acd859709e01ca35f7c71c777008eebda96ea6'
+    state_root: '0xd11dee90ac195da86c7797791c4806575e937191ed9ee37fcef18e3afaff4d01'
+    body_root: '0xe4f23f1c1ed446dca3449682c943af17d4454c79c477f12d4b334237a7d34400'
+  signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

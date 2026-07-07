@@ -1,0 +1,103 @@
+message:
+  payload:
+    parent_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    fee_recipient: '0x9bbfe9cb163cd87005f1f741fb341ba33ad4d9f7'
+    state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    receipts_root: '0x647ad493e585547ec610e8c33756c339dd575d43eecb341c9505c07d7a8a0dc7'
+    logs_bloom: '0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    prev_randao: '0x968f9b05a131eeae1fac3cd383b00bc5f35976c60149a4d9d7f6b33a883a7dcd'
+    block_number: 15832185175272821173
+    gas_limit: 0
+    gas_used: 0
+    timestamp: 17953319958326570965
+    extra_data: '0x95'
+    base_fee_per_gas: '63907903578879991308473012752680757991061298983228817914536363269909359856258'
+    block_hash: '0xb8edb92f03710d58308db64c2714f04db12fd1b81ae91c9a1614cae964c89974'
+    transactions: []
+    withdrawals:
+    - index: 18031485007612373875
+      validator_index: 8684406915348834202
+      address: '0xe2ee120080e20fc5d99ff7f3116f1de1fb78c2fc'
+      amount: 14101619285410982930
+    - index: 13540719689293372291
+      validator_index: 3301924622203860691
+      address: '0xffffffffffffffffffffffffffffffffffffffff'
+      amount: 0
+    - index: 8803926959735733742
+      validator_index: 1641390670293155645
+      address: '0x56095f8b04a23a5a5ba47ceba660f17595be8afd'
+      amount: 0
+    - index: 18446744073709551615
+      validator_index: 1662802698799190748
+      address: '0xe2cc2d48be62d26c5e87c387da724bc836e822b4'
+      amount: 9090878236265721928
+    blob_gas_used: 17419787693475815478
+    excess_blob_gas: 10373157953506176477
+  execution_requests:
+    deposits:
+    - pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+      withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      amount: 18446744073709551615
+      signature: '0x56025fcbac5deb2d6052d3fa65b21e99c9de01c65380d832d7d58cc12cf303729416b19991a9e38e7299949251dafabd06cec525b68dcb5a95f146e3f6cdbc45cdbe643fb2d7603b2af71ff83f9467a842e9d5064082d0da056a0d63bb1d791a'
+      index: 18077971887013678782
+    - pubkey: '0x1505935c7436bcfac8fd99ceaf41c0c917bece68465785b552b4503af8491e28dd1f2f7965b745103cb1b0d0d78baae5'
+      withdrawal_credentials: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      amount: 0
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      index: 0
+    - pubkey: '0xb09f1253fb6f9304a28e9f309b0236b6d543c0864c3e2b0109b5ab59ccb117b96834ea6feaacbb76349ad0918a1f4ca9'
+      withdrawal_credentials: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      amount: 3283024423871426243
+      signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+      index: 12715959692094752860
+    - pubkey: '0xb3fc62e6faa316ffb4af7766ff635c35a4ff1fb1a1aba228d072627e53d4d27916f4ecfac6c0977ba5f29f0cc58a4d82'
+      withdrawal_credentials: '0x6e736f306455481e4118cd61bc4b4aabfaee323b2c2ff5d46770e61c9f92e46b'
+      amount: 18446744073709551615
+      signature: '0x6ab2e9d10d2b2991f3fdccfa338146bba643b90778522f7771cd82a79c69f02fd844485597bde2119ef559829c91e9366286e9177afa7cfe67672951467e81ba15e88338d0ebe7a68d5c5a06a6c7399e38fb90a7e7f4b312d0e371984ed65219'
+      index: 0
+    - pubkey: '0x7ed7496c07d1bf152d5470a8de21c75d7bd6dd14b71ad7ad490c3e4d9d5c3e5b27ed69895637c1d0d3e98a6f152cd27d'
+      withdrawal_credentials: '0x41eb2ffe7540c3343104152b54b2809b7d87b4650d8cdfd9183c53268659723c'
+      amount: 12574216031523677878
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      index: 0
+    - pubkey: '0xf3e96faa14b4004153c4a3e0a0145f4db6ab6dd0f3dd62eb22783a6493eddf9fb1a5cbfc26a1a6f78b8761e94c377219'
+      withdrawal_credentials: '0x1da353017cf8dc570cb2cedfcf93cf6bb419dd9c6e23e29aa1d0db1e024a43eb'
+      amount: 0
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      index: 5157112628986362629
+    - pubkey: '0xfb1b6408fcedb71adbc5c0a1745c3f3ef36d9abb8b1787a3c465b96039e486f950eaec6244da658315abea41bce6788a'
+      withdrawal_credentials: '0x571af34dcb993056a793e503f4a63906fe38dcea28a1381d8dd7e76d57672112'
+      amount: 9779265803445238995
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      index: 18446744073709551615
+    - pubkey: '0x0fd44e451b7138e55fd4bd59cdc9870ad8f8f5b8277d650c3fa88ff14ee90622b7a287e63ef815380a800ac499ab5aba'
+      withdrawal_credentials: '0x4d951c5657d016d247c7865ee48d77dab7974d932d25114bd8344d6c97a03691'
+      amount: 3803915316343688206
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      index: 0
+    - pubkey: '0x0fe49f3df0c34ebaa8ef4460938e54e6fd461c03a1016377a80b65d3857e26ff265fa5b84ef3f15db856bad7075ab3f1'
+      withdrawal_credentials: '0xa2a942f99c48775793d8cda362d0a43b4abcfab7597ec9fb0adef8fb40459a3b'
+      amount: 9274810313531200534
+      signature: '0x1e4a0e22ea664a8aceb70f45ccc9adf2e04e38fac73799b49fbd90028e574a4d33d2207ab5560b3b09fe2195269944fe0b5b920f9be3411a76ab1ce5351733e1df1b289aef94cc5e6cdb284720467738eb8f40743127de0369203465e4e2ed22'
+      index: 0
+    withdrawals: []
+    consolidations:
+    - source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+      source_pubkey: '0x61c4ac77ba52babbcc7989ab4c1fc230b4204706c56468f3bedc57e44008a0d8d74e230dc5835577dcf922f86760da43'
+      target_pubkey: '0xbcd5b34e034077b91d7cb0335c8976a111ed193ac308c000a8bd71c070dd1abd065be2a6e7674c227e1aaa7790d8646f'
+    - source_address: '0x25627548f04a731f4b1a2bc0b4b2546138be912e'
+      source_pubkey: '0xcd1d48946c6c521b1796af38e9384c883b7750c6ac69f30edfbe2dae8bbe49031b2e8306f2ae94d6212d696dd301b8cc'
+      target_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+  builder_index: 10623946845051649141
+  beacon_block_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  slot: 7492802560308484282
+  blob_kzg_commitments:
+  - '0xea7216dfafdc6705e69485875af52a95502a752414b2a64fae1035c25ede2eca9cff38190f4e05f751e74454091d27ee'
+  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  state_root: '0xc8137839f33fea6865532d18b8ebffc6a782144e9c579f1de7930cf9f8ed88c9'
+signature: '0xc90dac1a3f750db383e7901afe103aac39c737f6a4c7ca491ca5d49a86c6a40f8821f8272512b7e1b004fd258c8ebec553e052bc2e92cfb70ead67b795edf85c1850cf09eb237810a7c7a6c0ca182e3509912d886a3f6a555a8cb80857be7cc9'

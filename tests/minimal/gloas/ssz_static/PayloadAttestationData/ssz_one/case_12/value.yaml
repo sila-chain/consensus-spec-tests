@@ -1,0 +1,4 @@
+beacon_block_root: '0x8c93c714f24703d2e637aaef5ed26d82033aa65b9612ad11641875d79657cec5'
+slot: 7128258311593337967
+payload_present: false
+blob_data_available: true

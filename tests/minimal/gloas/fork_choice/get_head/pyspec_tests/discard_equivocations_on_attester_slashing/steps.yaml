@@ -1,0 +1,55 @@
+- checks:
+    head:
+      slot: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+- {tick: 36}
+- checks:
+    time: 36
+    head:
+      slot: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    justified_checkpoint:
+      epoch: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: 
+    block_0x2599b207426378037a0f20e60927ee440057362c10553d1b8647832fd5f07f4a, 
+    valid: true}
+- checks:
+    time: 36
+    head:
+      slot: 3
+      root: '0x612ba7739c1d87462206a16ce08f2fa034bb11221729f2a4940a66c35e846435'
+    justified_checkpoint:
+      epoch: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: 
+    block_0xc13853827fa32c39af220306e75e67ce7058068485a0f4d4f7ca04b7031aab08, 
+    valid: true}
+- checks:
+    time: 36
+    head:
+      slot: 4
+      root: '0xc5dd629ace741a8104d7f6868c02f5a2c9afa75ef552c1b197557eae5fc1c290'
+    justified_checkpoint:
+      epoch: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0xd1b9aa5b421753e524aa012bd52c3f02b1ecb3099735fe95895ff24659769aad'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {attestation: 
+    attestation_0xd489c05625b3333944bf6e19ffbe328e18ba91dacc73dbccb6446c0e75e5e06c}
+- {attester_slashing: 
+    attester_slashing_0xb8dd7bb4580fe70d739a05057e1a7cd31713162d60453599399adb5cd4ef6b52}
+- checks:
+    head:
+      slot: 4
+      root: '0xc5dd629ace741a8104d7f6868c02f5a2c9afa75ef552c1b197557eae5fc1c290'

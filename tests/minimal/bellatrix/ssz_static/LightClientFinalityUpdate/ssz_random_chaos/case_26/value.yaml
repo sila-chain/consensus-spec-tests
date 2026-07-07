@@ -1,0 +1,25 @@
+attested_header:
+  beacon:
+    slot: 0
+    proposer_index: 0
+    parent_root: '0xf4c58bc306715caf3ae1e2ed56d01d78c5e739afba823b318d255a67a54d015b'
+    state_root: '0x8a991357283c6185b6986b0d4ae65a2811796af12fc99e5735b8b3f0537606c9'
+    body_root: '0xb02a0fb1520b935a844c0b229de72015e4278dbcbb4db4586e464109812b1872'
+finalized_header:
+  beacon:
+    slot: 18446744073709551615
+    proposer_index: 18446744073709551615
+    parent_root: '0x712c54e7320580ea30484c94c1d759ce3e01f9874d4d53f5ab4eed85b6f50f44'
+    state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    body_root: '0x1f93f555de4c5bae067b68ec7dac61acd9113f3198e538c2f21091f202c3802e'
+finality_branch:
+- '0x49e3565d9d745e7b897a7984a7c09f3c5a1669b5d29fb64fa07876e08fbb1a43'
+- '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+- '0x0a5358b023c5c3889fdd1e390e659e6c573af8357c5b13b8d0538d5445000084'
+- '0x2cc837944c17fc631b9947ef0aec1dbf9df72390aff28eac581dd95cde2137d8'
+- '0x0000000000000000000000000000000000000000000000000000000000000000'
+- '0xe1c8d72426f9f34c376297dc028c783b91a52f0465768e1a471c460c740c5071'
+sync_aggregate:
+  sync_committee_bits: '0x930e2abf'
+  sync_committee_signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+signature_slot: 18446744073709551615

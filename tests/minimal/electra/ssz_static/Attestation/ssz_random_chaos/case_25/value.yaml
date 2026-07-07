@@ -1,0 +1,13 @@
+aggregation_bits: '0xf906'
+data:
+  slot: 9864987870619889853
+  index: 16958265689714079634
+  beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  source:
+    epoch: 12410682115673133149
+    root: '0x99d3fa682f6a54427a9d6d4a852e3bbb609edd6bf29a866297173f6faeed8223'
+  target:
+    epoch: 0
+    root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+committee_bits: '0x0f'

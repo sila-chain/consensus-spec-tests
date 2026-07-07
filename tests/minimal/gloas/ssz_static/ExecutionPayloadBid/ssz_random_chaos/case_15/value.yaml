@@ -1,0 +1,9 @@
+parent_block_hash: '0xc852f11ae621e6faf87ab7b7edbacfbc627684dba7080eac528a52f2739cb646'
+parent_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+block_hash: '0xf57e4f2bdd0c9c03f079547f5caa79e15d0a55570f0f92d1cc411288c33f0075'
+fee_recipient: '0x284edd6f974cbac7045d0858360a4a4151859e01'
+gas_limit: 7783911823625669256
+builder_index: 18446744073709551615
+slot: 3726549461220307494
+value: 0
+blob_kzg_commitments_root: '0xba300622bd87b67b5b8950f73840753aca1f6341e4481361188f48487985a61d'

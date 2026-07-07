@@ -1,0 +1,13 @@
+committee_index: 18446744073709551615
+attester_index: 0
+data:
+  slot: 17399121394767690202
+  index: 0
+  beacon_block_root: '0xdf9c93eb50b4337eeab06c06ddd52c01246a3355e004c4bfa09ac4b39ea07397'
+  source:
+    epoch: 0
+    root: '0x1ee36ee6ae4f4ef6e3c155b490b878fcbb5059a083feddfc02eb99c08a25c42b'
+  target:
+    epoch: 0
+    root: '0x527f6d78c09f2b7e243d516c21a9e5ed2ee7a0c4c36d0de83e61d25730262e62'
+signature: '0x9ab23ad876cac85dfa869c0a0308f2a4e1bce2b2279824e80c9be708481e140ae2e9eeb07098a53de4fca127d4b000bbd5c13081d45b5b1c96a2a311b1a5cfadc690e3cd14a5fda808fe050e64d9ec21c5f3158ead3c12b3518867f90f1dbbf6'

@@ -1,0 +1,7 @@
+validator_index: 4464073278791644224
+data:
+  beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  slot: 11485908053319571971
+  payload_present: false
+  blob_data_available: true
+signature: '0xa6a0b6061ea943c2cf79c87bad3305bbb1cb803be042d64491e82a36ab7911efb77ec6ed3a478f4c8688caae7d260e80c162b06a0457679b96ebfd30096868f227ec1332ef5214c14bd2d7bfae1ee22d5c691770bd74d55ff04fe76e72420757'

@@ -1,0 +1,34 @@
+attested_header:
+  beacon:
+    slot: 0
+    proposer_index: 0
+    parent_root: '0x87cade8fde6327d385297a781068fed9fddaea563dd053fc6949f4f330b87478'
+    state_root: '0x3a7bb0d135baa859c4a2e799ea08bb89e6cfdd9190e838b742fc49697b5f815c'
+    body_root: '0x0607c18200cc62f646048812949811687d41ca5acb8d8ba5e61e7d12c79988e2'
+  execution:
+    parent_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    fee_recipient: '0x0000000000000000000000000000000000000000'
+    state_root: '0xfa91da60a97782ebfe50f06b3e72b0845155976e5a1dc684fa161b015465a5b7'
+    receipts_root: '0x8540bfb5bfb0cf701f212eafc3db600803a330e24809dc286bba2db849c4cf08'
+    logs_bloom: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    prev_randao: '0x003440bafc8b63086791838f5171eb4d79469d75db128b481985c82b45374d7b'
+    block_number: 0
+    gas_limit: 768268666422352490
+    gas_used: 18446744073709551615
+    timestamp: 12167317036958210383
+    extra_data: '0x00'
+    base_fee_per_gas: '89752622479652550136566304233853723606653912427983004566214911828917800611327'
+    block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    transactions_root: '0x7da5d0190e028f68ac2ef0e92b3af1c9117dd3b4c4b6d89d6cb4553bfeab67da'
+    withdrawals_root: '0xe702c7b3e3cb2c3b7554e357fac6fef9349c254ef2074a6fae576f9a00094cad'
+    blob_gas_used: 18446744073709551615
+    excess_blob_gas: 9965239524876471636
+  execution_branch:
+  - '0x8a93ebe438880fc421c359617a677569b2b65040e78d94746e7adf0ddb3015c3'
+  - '0x0000000000000000000000000000000000000000000000000000000000000000'
+  - '0x823468197b403b09217e3755e5f13293022846fc24db929a440581d6ea592364'
+  - '0xfc51b5ec25d06caed5497336b991555484ecead300f2014c2ffb89ddd7f7dd8b'
+sync_aggregate:
+  sync_committee_bits: '0xdc862f92'
+  sync_committee_signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+signature_slot: 16782249297105248228

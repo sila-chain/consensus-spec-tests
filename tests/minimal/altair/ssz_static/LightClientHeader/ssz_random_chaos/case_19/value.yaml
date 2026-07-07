@@ -1,0 +1,6 @@
+beacon:
+  slot: 11727606270753442174
+  proposer_index: 0
+  parent_root: '0xbc223d353824a88dd2d6ef0c7ff0769436a780f4c885730fbb66d75098d83e2f'
+  state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  body_root: '0x0d41a4cb3829a23d3c8709bb929058a3294bd1fde8b5f7cd12f06cb293068f0c'

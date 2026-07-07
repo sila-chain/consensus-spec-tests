@@ -1,0 +1,7 @@
+validator_index: 12204914414303356286
+data:
+  beacon_block_root: '0x813d03e0b910187b2f42dc88ff88ff0cc05a8872fe9ac9587b3bdb7f22ffc92a'
+  slot: 11252597068205488596
+  payload_present: false
+  blob_data_available: false
+signature: '0x9edf0c1ff79e658a09362df139d9f740ad29ec4971e958d3a4d0004eb22a60053fdd17dea0f30f0821196a887e7a3c6766e25753888d463985b811955ab8def90e1a7c0c2df00a496f22540752b653acfe2da46f9faebe90e8b183b3badc0c5c'

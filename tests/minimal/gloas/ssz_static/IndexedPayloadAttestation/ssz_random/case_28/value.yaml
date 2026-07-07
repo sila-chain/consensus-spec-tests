@@ -1,0 +1,7 @@
+attesting_indices: []
+data:
+  beacon_block_root: '0x56b62d3abd9afee64fb17594953c1ebd157597eff9c125b570df3b6c0031979b'
+  slot: 5188824963246934535
+  payload_present: false
+  blob_data_available: false
+signature: '0xae82247dff641669fa655401d7388a19b42e976288908a4d6053602bcf0d7abff1240005ed8cf068b320ca1307803a34339afd44d7b27da9a8b4ce821e47bed6bbf96b95ba0bf5e03470758c4b5b6ec376a386fcebcf5d37cbf1c53a1a3a7f3a'

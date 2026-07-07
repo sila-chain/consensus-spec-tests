@@ -1,0 +1,9 @@
+parent_block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+parent_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+block_hash: '0x434242477e680448286687f34886236fe2b917660181a198ac3da16747f174da'
+fee_recipient: '0xfe3b93c47ab7711f9d67566f952e949bb9687601'
+gas_limit: 0
+builder_index: 2016845641315169711
+slot: 6348427498720375295
+value: 3238955617021922585
+blob_kzg_commitments_root: '0x0000000000000000000000000000000000000000000000000000000000000000'

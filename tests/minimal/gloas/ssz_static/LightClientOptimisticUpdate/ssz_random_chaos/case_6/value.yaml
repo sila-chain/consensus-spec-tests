@@ -1,0 +1,34 @@
+attested_header:
+  beacon:
+    slot: 2179593730203461991
+    proposer_index: 0
+    parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    state_root: '0xc92753f085e9bc88489e2ace11daee553ae497b82685b531ada03b3d5bb19248'
+    body_root: '0x6e719f193b52c7d9e043ba7d95b045b5dea1f77fb4772d333cc2060e1b6ef327'
+  execution:
+    parent_hash: '0xd834d8bc3299ed1eb8195b65e03cc57a343f2cba44fd6f3b074139c97d6baeaa'
+    fee_recipient: '0x1579fbb8881db5bd0072f5d2fee8b30b0cafb42b'
+    state_root: '0x199955474e3a08fe81fa72e318007a30dced1728c657176d7f253e7abe5f348f'
+    receipts_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    logs_bloom: '0x3a5c3013db47c409bd0fe87d9a8b081db720c4c3f554ff4dfd81be09a6d578b66f0ff33831bb0891c1c57ac6be3792a813f6141eb6c0f9bf9560cab73d27cc77e1df48e054ab739499d6c930aefbfdd9de9f539d99c0dff2d95da5e457c7b0fbfea8d1d720eb7f6c44dc301ccf160f34d2c23399a6b800e417518c2940a23054114c7e4078c790b2c464a5932642ffa4fd7c99d07b8bae47d51caa833b6607c55fa14f19f89fb3724a740e0c612447d4f666db36f416ebd29bb370d4dac0b18a1a8fa75fb3c9e9a486864eee510b30cfaac6b1db2e5513a70ebea4a183bab1125f38aaa526ac165b759c616c5383ac0aca16c1c10731aded5d35fcbefec56e75'
+    prev_randao: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    block_number: 6091450287392020376
+    gas_limit: 11148229046002412264
+    gas_used: 18446744073709551615
+    timestamp: 0
+    extra_data: '0x2b'
+    base_fee_per_gas: '0'
+    block_hash: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    transactions_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    withdrawals_root: '0xafbe10b75a0ae7486dc68efc0fdc1166d68f47ea27cce676f5923fa8df6517c1'
+    blob_gas_used: 8575375337909837752
+    excess_blob_gas: 15843514861127521724
+  execution_branch:
+  - '0xc82469ab3a407b2beb57a22aabaca32c653d1da107ea7d71804d8fcc3ef345f3'
+  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - '0xe82930b3fc2faa5b39bd36d6b5e78588055700b299e0f45784b52f1b22b27f5d'
+  - '0xfd4b2a7980fdc118d375e2bd912f314e64d5dc2da83d27d0fea3d12c1c1c88fb'
+sync_aggregate:
+  sync_committee_bits: '0x721c265b'
+  sync_committee_signature: '0xc49fe12e47aa80e21a1c1dcb8b043ff4f51cd421aa7c597b5808e4016e2cada0d5681671c60aba56b6ec8690bf60131907ffeaf387bd51be8dbf867bd2a55fe0109d262b6c35ae4c805c9829a89822c754ad586a8048fbf5753670c742c0fb06'
+signature_slot: 0

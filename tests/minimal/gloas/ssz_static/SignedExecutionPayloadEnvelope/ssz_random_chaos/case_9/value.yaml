@@ -1,0 +1,39 @@
+message:
+  payload:
+    parent_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    fee_recipient: '0x16744cebd91dd9f46ebd621bcd96445f8067f288'
+    state_root: '0x632bdccff5f1ec1c3aae238caeb0a2cc820ecb1ad84ef305f3ea53d0be1c69cf'
+    receipts_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    logs_bloom: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    prev_randao: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    block_number: 7194515458038171618
+    gas_limit: 18446744073709551615
+    gas_used: 15427529196405089935
+    timestamp: 15651135113764300312
+    extra_data: '0x'
+    base_fee_per_gas: '103270758629079183151430562916802697905817811456473323416686815814731906198395'
+    block_hash: '0x49c459992b0ed4d94d13cc36472bb7e197ca288cb54a0d2214264950840b6292'
+    transactions: []
+    withdrawals: []
+    blob_gas_used: 0
+    excess_blob_gas: 14488590694378001515
+  execution_requests:
+    deposits:
+    - pubkey: '0xe3c53ee2e05c8b623ed47004882ed33e53b17b4011feaea77a0013c84b478c6ca418491823dc267f98473fe60c1f15dc'
+      withdrawal_credentials: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      amount: 11791184083908739728
+      signature: '0x9a55fdb2f312c9b221493b0d0f9a75a917d79536cf08d42d6ebfc97c3e76ff4501334d429977fa72c7e4cfa1f2b927ff4711551aae69f3780f586d89d3bc8671c97f9905bdb88d088bc9771629ab91c48e478bfa85379e6ed3d98c05a18d141e'
+      index: 0
+    - pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      withdrawal_credentials: '0xfb5f01ea844c418039795d1c6712614eef8dfe4374cc1864596277800a906ce1'
+      amount: 18393213878239425543
+      signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+      index: 17622561261054600923
+    withdrawals: []
+    consolidations: []
+  builder_index: 8869876990174614012
+  beacon_block_root: '0xc8874114c70cac60a4d3a87f18dbd7358e92dc06e890bfe0cbecc13e7a5fb42c'
+  slot: 3560563897388892471
+  blob_kzg_commitments: []
+  state_root: '0xca013e9bcf90cbdb57b940ede6b9baacd691a62399069efe6e1a5c9bd71a9278'
+signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'

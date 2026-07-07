@@ -1,0 +1,9 @@
+slot: 15896980579187904317
+index: 6182753797890586228
+beacon_block_root: '0x839140568471dc2bddb7eab33cf028e15f2cde12cd15db81582e2c42fd990a9d'
+source:
+  epoch: 0
+  root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+target:
+  epoch: 2255941035802677986
+  root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

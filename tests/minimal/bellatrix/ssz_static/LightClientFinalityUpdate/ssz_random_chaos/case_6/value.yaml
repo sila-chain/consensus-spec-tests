@@ -1,0 +1,25 @@
+attested_header:
+  beacon:
+    slot: 10561854524118592120
+    proposer_index: 4480727651178871364
+    parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    body_root: '0xbf715a15851b4b4f14b92db286ca948915409e4904b2e44d84dfd7790844c7d9'
+finalized_header:
+  beacon:
+    slot: 18345140863489675997
+    proposer_index: 0
+    parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    body_root: '0xb29e5173bda258059743b089f608b3eb50188663d8cf47bac73e336a2c686307'
+finality_branch:
+- '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+- '0xb5d2a2430fd3dfd7795fb25a8a31252ab28019e59c98d93091bb32ae8ad1e245'
+- '0x626223519f2bddb6e462bb3135f70e97ab58ba63263c71d5fc87acf33ee07831'
+- '0x028d8580347dc6798cd8eceea52f4c306048cd79aa817ab47ee255fd759c20b5'
+- '0x0000000000000000000000000000000000000000000000000000000000000000'
+- '0xbb261cb058df70bef9a7f303cea4c0194ec4b82ae525dd5eb8f65ac7e05dd57b'
+sync_aggregate:
+  sync_committee_bits: '0x24fa99c0'
+  sync_committee_signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+signature_slot: 6365516254336410236

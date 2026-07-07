@@ -1,0 +1,8 @@
+pubkey: '0x9fcebb452e693db90dd27b873f89ae1916b5d1cedf963643ec0564259c7cd922a28111f4e4cdead6cce7bed9956e2ac2'
+withdrawal_credentials: '0xb703aa679750d3b7ce6a80833f6dbde4c0a9cf0bef7e94e73b400b32321c542d'
+effective_balance: 15889206889480861480
+slashed: false
+activation_eligibility_epoch: 3748577191664623457
+activation_epoch: 10096409489629109595
+exit_epoch: 3390865441659330234
+withdrawable_epoch: 12690158811299049743

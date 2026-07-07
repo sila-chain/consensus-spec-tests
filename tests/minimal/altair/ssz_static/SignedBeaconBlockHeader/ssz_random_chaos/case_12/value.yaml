@@ -1,0 +1,7 @@
+message:
+  slot: 13267716896322713069
+  proposer_index: 4718100379596791898
+  parent_root: '0xc78f9be30c7614b888be8c2a23789f3498090402ca97713c6c41376a78472730'
+  state_root: '0x05f3e01a4762dcfb560bb276be29ca6ab087927d21eb059401ffbc846e4e005f'
+  body_root: '0x25f67f03209f4131cef764b71387d355146eb95fc4b3fb129ce5da4896a06b5a'
+signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

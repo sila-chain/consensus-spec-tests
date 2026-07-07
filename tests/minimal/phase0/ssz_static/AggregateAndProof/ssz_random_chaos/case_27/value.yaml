@@ -1,0 +1,15 @@
+aggregator_index: 14294016125753547881
+aggregate:
+  aggregation_bits: '0x01'
+  data:
+    slot: 15557690952184727603
+    index: 13764234883479346919
+    beacon_block_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    source:
+      epoch: 12856304296745681827
+      root: '0x2e40b789ba44ba4b98c8f73ba3dc4ba155c0e4fe6b21c59cd4b1d6d61798a739'
+    target:
+      epoch: 15499095214353257445
+      root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+selection_proof: '0xf151e266d45d42cd0a606f675088b148e54c4be91fffe715b7985b7f0a63cfce3493bc3411e656c7cb04e0ea3a1f0e160b79e4a214507b56b19de91caf424510270d09518d8b35e85ec0cbaaf5ab1f4b05fedc649817c37e8bb9a9387a48b851'

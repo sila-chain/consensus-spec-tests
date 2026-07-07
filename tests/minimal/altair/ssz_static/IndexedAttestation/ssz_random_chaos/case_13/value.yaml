@@ -1,0 +1,14 @@
+attesting_indices: [16053722667581525742, 9638209072750484640, 
+    245064723705083914, 7270360530735979204, 15259745665452803416, 
+    10421199076503512366, 0]
+data:
+  slot: 13942096204270059694
+  index: 18446744073709551615
+  beacon_block_root: '0x5dc3647aeecbbfcccd15489239b5a9cc05af43e4285d0b122d46e0447f5bee3b'
+  source:
+    epoch: 346382176679761535
+    root: '0x567c120009b69e4e009b0035311d49706e619acdaaaa89e428131a37e9edc675'
+  target:
+    epoch: 17528830535147060827
+    root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

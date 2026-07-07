@@ -1,0 +1,103 @@
+- {tick: 7728}
+- checks:
+    time: 7728
+    head:
+      slot: 0
+      root: '0x5137fd0f9b1128d13c6b5698989f60206e1bcd756204a3db57e1f313e636de1b'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5137fd0f9b1128d13c6b5698989f60206e1bcd756204a3db57e1f313e636de1b'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5137fd0f9b1128d13c6b5698989f60206e1bcd756204a3db57e1f313e636de1b'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- block_hash: '0x52da47c2f7014a339289aa705304298146d74d23e34d9aebf3d95168c60d78ff'
+  payload_status:
+    status: VALID
+    latest_valid_hash: '0x52da47c2f7014a339289aa705304298146d74d23e34d9aebf3d95168c60d78ff'
+    validation_error: null
+- {block: 
+    block_0xc84c15060d546db354da416f844300d858a41a2978f9090c982d693f9023625b, 
+    valid: true}
+- checks:
+    head:
+      slot: 9
+      root: '0x84b239350d723100c0b8add7aae181aa774d836257d8cb656759c0ae40d8651e'
+- block_hash: '0xed857aafa1014ed231d779204316111627729c8f52e8871872c764a11f823da9'
+  payload_status:
+    status: VALID
+    latest_valid_hash: '0xed857aafa1014ed231d779204316111627729c8f52e8871872c764a11f823da9'
+    validation_error: null
+- {block: 
+    block_0xe9a6953be5d0e9bea4729a3e2ab27ca97aad93d9c1c003089fd8b1d0137abad3, 
+    valid: true}
+- checks:
+    head:
+      slot: 10
+      root: '0x4207e9d9b9420acc23dfdca2e7d3f23760d14748dbb01658be41262d1f336e98'
+- block_hash: '0x70320c5504c5253497345728abe145dc7ce5b39e57d97c1b4d70b8569b7beb7b'
+  payload_status:
+    status: VALID
+    latest_valid_hash: '0x70320c5504c5253497345728abe145dc7ce5b39e57d97c1b4d70b8569b7beb7b'
+    validation_error: null
+- {block: 
+    block_0x3821c514fc9bf6a404bf75a74a75a4ed9decf70eb1976593eb2a42a89591019b, 
+    valid: true}
+- checks:
+    head:
+      slot: 11
+      root: '0xb515790ef347b323b86ed4508fd64d959411e2aacb0af07e198993d2225f7ddb'
+- block_hash: '0x80ee2ea6e889f939c2769ee0250e9d56b3e4c41c8aac02f974ba0ac9b534d857'
+  payload_status:
+    status: VALID
+    latest_valid_hash: '0x80ee2ea6e889f939c2769ee0250e9d56b3e4c41c8aac02f974ba0ac9b534d857'
+    validation_error: null
+- {block: 
+    block_0x486f08efd2362f6e389bbbc40932299dfc5f2dcdacc6d10be44e82789da4ad17, 
+    valid: true}
+- checks:
+    head:
+      slot: 12
+      root: '0x55e0460d9de0004779ca20764aab0b6489fc8bc2ed2e9868dfc5947ffa3ef4da'
+- block_hash: '0x983c953bdbf8faa3daf3ded53b18f30044ce10867c38cc74bebbf224e17584b4'
+  payload_status: {status: SYNCING, latest_valid_hash: null, validation_error: 
+      null}
+- {block: 
+    block_0xbedf292045f0943684f827439dce8294d69443b695c0bbae95648de8c70ec70f, 
+    valid: true}
+- checks:
+    head:
+      slot: 10
+      root: '0xd448a22028adb68060f65c42ab1c7915f00965fa9afc6ab278e25327683a887a'
+- block_hash: '0x8077f9d28b0751b9fc5d88de1e4fc4767617874144f979f38fcb713017027b5f'
+  payload_status: {status: SYNCING, latest_valid_hash: null, validation_error: 
+      null}
+- {block: 
+    block_0x417c317e3c4b48527c4b74598c9cacc2af44f607f4877410e7d2e0fec1fbc32a, 
+    valid: true}
+- checks:
+    head:
+      slot: 11
+      root: '0x8fb00e534e7ed3e6de04642111b2629bd16934b373ee529c703413f9b0255d77'
+- block_hash: '0x347e1a47aeac4f8ee9a5bc04b4bfb6cf881638c281fcf255f42cb0e5c0cfc7bc'
+  payload_status: {status: SYNCING, latest_valid_hash: null, validation_error: 
+      null}
+- {block: 
+    block_0x476e0797c083f2d669c4a5aea9973ad23e01ca1946bb663e5e05746fda568a20, 
+    valid: true}
+- checks:
+    head:
+      slot: 12
+      root: '0xc90cfd14bf118d4c55d8ceda9256993bcc02f20fa4c0910875daf95ee97bae3b'
+- block_hash: '0xe12420590c25598ecec47d40bdc5419e02d71fda267eb11df3c7e84895f18002'
+  payload_status:
+    status: INVALID
+    latest_valid_hash: '0x52da47c2f7014a339289aa705304298146d74d23e34d9aebf3d95168c60d78ff'
+    validation_error: invalid
+- {block: 
+    block_0x8d7489980196b69de2b6b97e349f4e520e375d675ee5f2ee02ceac151fe11064, 
+    valid: false}
+- checks:
+    head:
+      slot: 12
+      root: '0x55e0460d9de0004779ca20764aab0b6489fc8bc2ed2e9868dfc5947ffa3ef4da'

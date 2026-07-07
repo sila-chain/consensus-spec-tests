@@ -1,0 +1,58 @@
+payload:
+  parent_hash: '0xef342844c9ca7317fd2bfe8ca9ab38a8d844a3b554f081a30dc0660a9f3c7614'
+  fee_recipient: '0x0000000000000000000000000000000000000000'
+  state_root: '0x9f87638167e8c946be6d3c44622e0c9b7af0c0d7c249437dfaf5084a344d2d19'
+  receipts_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  logs_bloom: '0x4a94cbe71ef1ff7eda8e122af2e02811a46166833fb001d5d9a545b8ed752f1451a523c84bfc0adf8ae52d522267549e9b175e6cc80bbf3d4846368b379fc74746b1508ad2f5c1224b6fe13c4cd0fef1955f4cca978cce8d43256a2407890bcc85505189d7a8f9c39f53e9bb919ff64887407228d4c8138cb4fc0fd43e6b94957b8207daf766239b22ff5c88641420e4a318c8de6a9649ba1ec40f31e3ed7d436ef3157b7ebcba391767268c475ab361b82e004ced9b7ff6977d83be19dcc1d588fac9e98298a6702bab96e4021d775b0b48601d6b8c2a5d26c0ebeabd8e6a2dd6b4cc1139c53b9dda9c3a31f4f16c96fe93d0c49739b1c6a516fbc65ab8153f'
+  prev_randao: '0xc6363eedd1e181d8095cf31930bb253d49fccb0505de14aed8464c29999df344'
+  block_number: 743850966066588778
+  gas_limit: 18446744073709551615
+  gas_used: 25312874940525686
+  timestamp: 6316286179237111234
+  extra_data: '0x'
+  base_fee_per_gas: '27757581747312754126422134625811544043669183938577088805726577218659385099843'
+  block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  transactions:
+  - '0x00'
+  - '0xff'
+  - '0xff'
+  withdrawals:
+  - index: 5553983877682963549
+    validator_index: 2402663548081957189
+    address: '0xf7f0847cc6c9d2fcf68c7489b7e23a335983a16a'
+    amount: 8829548787332493533
+  - index: 18446744073709551615
+    validator_index: 3554717575565486492
+    address: '0x0000000000000000000000000000000000000000'
+    amount: 11912205206996271946
+  - index: 18429953181913935602
+    validator_index: 18446744073709551615
+    address: '0x594dc33c65b86139f63590ed2c969c759879732b'
+    amount: 0
+  - index: 11870691230722611785
+    validator_index: 6961501145046973028
+    address: '0xf236ac500071c4b315703c4ffcd344b76248accb'
+    amount: 8373226753457503351
+  blob_gas_used: 18446744073709551615
+  excess_blob_gas: 18446744073709551615
+execution_requests:
+  deposits: []
+  withdrawals:
+  - source_address: '0x73c9f960a58de60da195c78f2d7f616db0790b0e'
+    validator_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    amount: 472173451385205498
+  - source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+    validator_pubkey: '0xf75bd10e1f9257115fecd281f87f7ae0de037daf75c0e4c58587fc8fe4c2d2315ec9c8a16be75338c73586595f9d365a'
+    amount: 10045466165691095078
+  - source_address: '0x0000000000000000000000000000000000000000'
+    validator_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    amount: 18006074143099783651
+  consolidations:
+  - source_address: '0x34f810f92a27855b450191821b6d2c784ccc3486'
+    source_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    target_pubkey: '0x689302fdc037a44bc4a40daf2d2fe30a4ae4662eaf9817a715e967fe40fe9a796574d5e7104237c70182b28fdcb05afd'
+builder_index: 10728643110602915892
+beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+slot: 15341278397163608016
+blob_kzg_commitments: []
+state_root: '0x3107a7be89ca58a85e7c6067df182fc58fa85f1108352befc11f573cac421e0b'

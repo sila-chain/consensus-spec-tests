@@ -1,0 +1,26 @@
+attestation_1:
+  attesting_indices: []
+  data:
+    slot: 2938778268384302314
+    index: 15522632815062501296
+    beacon_block_root: '0x228cb8385c58a2fc1336bfba065661e68888f111d8e1c34a72bef609688ed5d0'
+    source:
+      epoch: 14296846702942628991
+      root: '0xb65ca4d9847a214673330e8bfcb5f6de637aa0c0140867e7d5b2ba5b78c797f1'
+    target:
+      epoch: 0
+      root: '0x3bf7a553e359a8ee5c6d4f9c618a5bc7a6cc6865b04fe89beb3bba079792fa68'
+  signature: '0x68a1b9957cf8d55b142bf5347200b5142e588801992c0a85a9928705080b2a5b7f0672fee073a716c0eae3303782381200615fd0b813a26cd1b26dd115d7fb5130de32b7f3893d86293a4d1dabf6d4be2e1e6aec813a73ecd10380aa140c83d7'
+attestation_2:
+  attesting_indices: [7131698665001093050, 1193960994339208219]
+  data:
+    slot: 0
+    index: 10221985484297549258
+    beacon_block_root: '0x1bb14d74e0cccac994cac4159397da09ea2b0c8e9370c5c44c298f7a3b44baa4'
+    source:
+      epoch: 10861005530586131780
+      root: '0x4214b407a270124b3e8c87c71655c7f2ec7b14e274f1afd9058b0243cc3d8d75'
+    target:
+      epoch: 4612519641034754323
+      root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
